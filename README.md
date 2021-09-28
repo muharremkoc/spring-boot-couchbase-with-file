@@ -16,12 +16,7 @@ This Project,Spring Boot Couchbase with File Saved
 - docker-compose up -d
 
 
-- Connect localhost:8091
-
-![Couchbase-UI](https://user-images.githubusercontent.com/80245013/135096355-2d2f485d-01d9-4a7a-acdf-07ef849bc847.png)
-
-
-- If you don't have a cluster,Press Start a new cluster
+- Connect localhost:8091 && If you don't have a cluster,Press Start a new cluster
 
 
 ![Couchbase-UI](https://user-images.githubusercontent.com/80245013/135094986-afa110be-6c4a-4e2d-ab8c-05b3bd912975.png)
